@@ -7,4 +7,5 @@ Program that compiles .b and .bf files into .c files. Written in Python
 3.  Your file will be saved as ```<yourfilename>.c```
 
 # Plans
-I am planning to release this program on Linux
+1. Linux version
+2. Add a form for simpler compiling with ability to compile .c files to .exe files
